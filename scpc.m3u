@@ -6,5 +6,12 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="3002" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="Documentales",La 2
 http://185.189.225.150:85/TV2/index.m3u8
 
-#EXTINF:-1 tvg-id="3003" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General",Antena3
+#EXTINF:-1 tvg-id="3003" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General",Antena3 [HD]
 http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="3004" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General",Cuatro [HD]
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1 tvg-id="3005" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General",Telecinco
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
