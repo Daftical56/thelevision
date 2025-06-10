@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General",Antena 3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General",Cuatro
+http://185.189.225.150:85/CuatroHD/index.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 SD
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2
+http://185.189.225.150:85/TV2/index.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="",Telecinco
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
