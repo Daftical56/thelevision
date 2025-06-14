@@ -9,7 +9,7 @@ http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General" tvg-chno="3003",Antena3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General" tvg-chno="3004",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General" tvg-chno="5004",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids" tvg-chno="3005",Boing
