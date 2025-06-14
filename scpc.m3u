@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="General" tvg-chno="3001",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="Documentary" tvg-chno="3002",La 2
+http://185.189.225.150:85/TV2/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General" tvg-chno="3003",Antena3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General" tvg-chno="3004",Cuatro
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids" tvg-chno="3005",Boing
+http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Entertainment" tvg-chno="3006",La Sexta
+http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24h" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="News" tvg-chno="3024",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="Factoria de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/512px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Entertainment" tvg-chno="3013",Factoria de Ficción
+http://185.189.225.150:85/fdf/index.m3u8
+
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png" group-title="Entertainment" tvg-chno="3010",neox
+http://185.189.225.150:85/neox/index.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clan_logo.svg/327px-Clan_logo.svg.png" group-title="Kids" tvg-chno="3023",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
