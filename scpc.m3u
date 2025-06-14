@@ -19,10 +19,10 @@ http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Entertainment" tvg-chno="3006",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="News" tvg-chno="3024",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="News" tvg-chno="3024",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="FactoriadeFiccion.TV" tvg-name="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/512px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Entertainment" tvg-chno="3013",Factoria de Ficción
+#EXTINF:-1 tvg-id="FactoriadeFiccion.TV" tvg-name="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/512px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Entertainment" tvg-chno="3013",Factoría de Ficción
 http://185.189.225.150:85/fdf/index.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png" group-title="Entertainment" tvg-chno="3010",neox
