@@ -32,5 +32,8 @@ http://185.189.225.150:85/neox/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
 # -- Radio --
-#EXTINF:-1 tvg-id="Cadena100" tvg-name="CADENA 100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cadena100-2024.svg/400px-Cadena100-2024.svg.png" group-title="C100" tvg-chno="5002",Cadena 100
+#EXTINF:-1 tvg-id="Los40" tvg-name="LOS40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png" group-title="[Radio] Pop" tvg-chno="5001",Los40
+https://20103.live.streamtheworld.com/LOS40_SC
+
+#EXTINF:-1 tvg-id="Cadena100" tvg-name="CADENA 100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cadena100-2024.svg/400px-Cadena100-2024.svg.png" group-title="[Radio] Pop" tvg-chno="5002",Cadena 100
 https://server8.emitironline.com:18196/stream
